@@ -36,7 +36,7 @@
 
 
 ## 🎯 **Features**  
-✔️ **30+** professionally designed screens for a smooth and intuitive user experience.  
+✔️ **20+** professionally designed screens for a smooth and intuitive user experience.  
 ✔️ **User Authentication:** Email/password sign-up, sign-in, and Google authentication.  
 ✔️ **Job Listings:** Users can browse, search, and filter job postings.  
 ✔️ **Job Details:** Detailed view with job descriptions, salary, company info, and requirements.  
