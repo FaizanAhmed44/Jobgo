@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "30970898395",
+    "project_id": "jobgo-4e864",
+    "storage_bucket": "jobgo-4e864.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30970898395:android:97cd5083905aa55a5829fe",
+        "android_client_info": {
+          "package_name": "com.example.jobgo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "30970898395-md9jdkkha85um0u36sjrmdktrkp4pm2b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.jobgo",
+            "certificate_hash": "8fdc7339cd03025b6fa1bfb28b537343dc778744"
+          }
+        },
+        {
+          "client_id": "30970898395-qoqbjseb56feqkavsvqvadk671144gfd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKqmz9hw6tqR6OX96dd_P8_wIGeBW55Hk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "30970898395-qoqbjseb56feqkavsvqvadk671144gfd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "30970898395-ou84l7l4ursi7bm7k4c45dmnjp3qva6r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.jobgo"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
