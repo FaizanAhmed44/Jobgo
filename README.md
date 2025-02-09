@@ -1,7 +1,7 @@
 # 📌 **JobGo - Job Search & Recruitment App**  
 
 **JobGo** is a Flutter-based job search and recruitment application designed to help job seekers find the best job opportunities and apply directly from the app. It also allows companies to connect with potential candidates efficiently. The app integrates Firebase for authentication, database storage, and job management while providing a seamless experience for users.  
-
+🚧 Note: This project is still in progress and under active development. Some features may not be fully implemented yet. 🚧
 
 
 ---
@@ -20,12 +20,14 @@
 ## 📖 **Table of Contents**  
 - [Features](#features)  
 - [Tech Stack](#tech-stack)  
-- [Installation](#installation)  
+- [Installation](#installation)
+- [Project Structure](#project-structure)  
 - [Screenshots](#screenshots)  
 - [How It Works](#how-it-works)  
 - [Firebase Configuration](#firebase-configuration)  
 - [Admin Panel](#admin-panel)  
-- [License](#license)  
+- [License](#license)
+- [Author](#author)  
 
 
 
@@ -148,9 +150,19 @@ jobgo/
 
 
 ## 📸 **Screenshots**  
-> Add screenshots of your application for better visibility.  
-> ![Screenshot 2025-02-08 111748-Photoroom](https://github.com/user-attachments/assets/d50019ae-d4fa-4d75-a642-22dc848def9a)  
-> ![Screenshot 2025-02-08 111813-Photoroom](https://github.com/user-attachments/assets/e8682a85-8d93-4b54-bde9-260980515cb8)  
+
+
+> ### **Light Mode**
+
+
+<img src="asset/images/l1.png" width="210" height="410">     <img src="asset/images/l2.png" width="210" height="410">     <img src="asset/images/l3.png" width="210" height="410">     <img src="asset/images/l4.png" width="210" height="410">     <img src="asset/images/l5.png" width="210" height="410">     <img src="asset/images/l6.png" width="210" height="410">     <img src="asset/images/l7.png" width="210" height="410">     <img src="asset/images/l8.png" width="210" height="410">     <img src="asset/images/l9.png" width="210" height="410">     <img src="asset/images/l10.png" width="210" height="410">     <img src="asset/images/l11.png" width="210" height="410">     <img src="asset/images/l12.png" width="210" height="410"> 
+
+
+
+> ### **Dark Mode**
+
+
+<img src="asset/images/d1.png" width="210" height="410">     <img src="asset/images/d2.png" width="210" height="410">     <img src="asset/images/d3.png" width="210" height="410">     <img src="asset/images/d4.png" width="210" height="410">     <img src="asset/images/d5.png" width="210" height="410">     <img src="asset/images/d6.png" width="210" height="410">     <img src="asset/images/d7.png" width="210" height="410">     <img src="asset/images/d8.png" width="210" height="410">     <img src="asset/images/d9.png" width="210" height="410">     <img src="asset/images/d10.png" width="210" height="410">     <img src="asset/images/d11.png" width="210" height="410">     <img src="asset/images/d12.png" width="210" height="410"> 
 
 
 
