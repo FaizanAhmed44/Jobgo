@@ -1,4 +1,4 @@
-# 📌 **JobGo - Job Search & Recruitment App**  
+# 💼 **JobGo - Job Search & Recruitment App**  
 
 **JobGo** is a Flutter-based job search and recruitment application designed to help job seekers find the best job opportunities and apply directly from the app. It also allows companies to connect with potential candidates efficiently. The app integrates Firebase for authentication, database storage, and job management while providing a seamless experience for users.  
 🚧 Note: This project is still in progress and under active development. Some features may not be fully implemented yet. 🚧
